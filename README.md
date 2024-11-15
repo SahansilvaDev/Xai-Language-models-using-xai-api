@@ -1,13 +1,14 @@
 # Xai-Language-models-using-xai-api
 Get Started With xAI: How To Make Your First API Call
- create Account (accounts.x.ai) ---> Creating your API key (getting in you console - console.x.ai) 
+ 01 create Account (accounts.x.ai) 
  
- ---> Set it your environment variable in your terminal XAI_API_KEY="your_api_key_here"<br>
+ 02 Creating your API key (getting in you console - console.x.ai) 
+ 
+ 03  Set it your environment variable in your terminal XAI_API_KEY="your_api_key_here"<br>
 Variable name : XAI_API_KEY<br>
 Variable value : "your_api_key_here"<br>
 
-
-----> using this python file you can make your first x.api request using OpenAI SDK (docs.x.ai/api/integrations#openai-sdk)
+04 using this python file you can make your first x.api request using OpenAI SDK (docs.x.ai/api/integrations#openai-sdk)
 (if you did not install openai use this in your terminal --- ( pip install openai ))
 <br><br><br>
 
