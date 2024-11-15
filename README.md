@@ -2,9 +2,9 @@
 Get Started With xAI: How To Make Your First API Call
  create Account (accounts.x.ai) ---> Creating your API key (getting in you console - console.x.ai) 
  
- ---> Set it your environment variable in your terminal XAI_API_KEY="your_api_key_here"
-Variable name : XAI_API_KEY
-Variable value : "your_api_key_here"
+ ---> Set it your environment variable in your terminal XAI_API_KEY="your_api_key_here"<br>
+Variable name : XAI_API_KEY<br>
+Variable value : "your_api_key_here"<br>
 
 
 ----> using this python file you can make your first x.api request using OpenAI SDK (docs.x.ai/api/integrations#openai-sdk)
