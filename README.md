@@ -1,5 +1,5 @@
 # Xai-Language-models-using-xai-api
-Get Started With xAI: How To Make Your First API Call
+Get Started With xAI: How To Make Your First API Call ( you will get Free credits - $25.00 total )
  
  01 create Account (accounts.x.ai) 
  
